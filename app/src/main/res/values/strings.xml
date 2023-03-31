@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">F and S Wedding Planner</string>
+    <string name="catering_management_title">Catering Management</string>
+    <string name="add_catering_item">Add Catering Item</string>
+    <string name="food_item_name_hint">Food Item Name</string>
+    <string name="caterer_name_hint">Caterer Name</string>
+    <string name="caterer_charge_hint">Caterer Charge</string>
+
+
+
+
+    <!-- Other string resources -->
+
+    <string-array name="guest_status_array">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Maybe</item>
+    </string-array>
 </resources>
